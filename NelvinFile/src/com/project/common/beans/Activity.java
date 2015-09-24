@@ -10,7 +10,7 @@ public class Activity {
 	}
 	private static void displayGreeting(){
 		System.out.println("Hello Student");
-		System.out.println("HI");
+		System.out.println("Nelvin");
 	}
 
 }
